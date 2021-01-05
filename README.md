@@ -10,13 +10,6 @@ Assumptions:
 6. There is no such concept as “waiting” in our system. The user is shown only those travel classes which are available during the booking process.
 7. Maximum capacity for all AC1 , AC2 and AC3 is 20 seats for each train.
 
-
-# Class Diagram of the Project
-Following class diagram is drawn from the code to understand the flow of the system : 
-[
-![Picture1](https://user-images.githubusercontent.com/48834012/103614982-c3bebc80-4f4f-11eb-954e-5b2120f1f43d.png)
-](url)
-
 # Tasks performed by system
 The system have following main tasks :
 
@@ -25,4 +18,12 @@ The system have following main tasks :
 3. Cancel
 4. Transaction History
 5. PNR Enquiry 
+
+# Class Diagram of the Project
+Following class diagram is drawn from the code to understand the flow of the system : 
+[
+![Picture1](https://user-images.githubusercontent.com/48834012/103614982-c3bebc80-4f4f-11eb-954e-5b2120f1f43d.png)
+](url)
+
+
 
