@@ -17,3 +17,12 @@ Following class diagram is drawn from the code to understand the flow of the sys
 ![Picture1](https://user-images.githubusercontent.com/48834012/103614982-c3bebc80-4f4f-11eb-954e-5b2120f1f43d.png)
 ](url)
 
+# Tasks performed by system
+The system have following main tasks :
+
+1. Login/Register of a user
+2. Book
+3. Cancel
+4. Transaction History
+5. PNR Enquiry 
+
